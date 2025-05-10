@@ -1,0 +1,15 @@
+* {
+  font-family: "Faculty Glyphic", sans-serif;
+}
+#tasks-container {
+  overflow-y: scroll;
+  scrollbar-color: transparent;
+  scroll-behavior: smooth;
+}
+.task-name {
+  word-break: break-word;
+}
+#root {
+  height: 100vh;
+  overflow: hidden;
+}
